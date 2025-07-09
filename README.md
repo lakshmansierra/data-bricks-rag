@@ -1,1 +1,1 @@
-# data-bricks-rag
+# data_bricks_rag
